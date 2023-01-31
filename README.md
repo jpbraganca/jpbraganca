@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=4EF739&background=2C3028&multiline=true&width=500&height=68&lines=Hi%2C+there+%F0%9F%91%8B;Let's+code+%3F)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2000&pause=500&color=4EF739&background=2C3028&center=true&multiline=true&width=800&height=100&lines=Hi%2C+there+%F0%9F%91%8B;Let's+code+%3F)](https://git.io/typing-svg)
 
 ### <div align="center">I'm João Pedro Bragança, a passionate software developer focused on web technologies</div>  
   
